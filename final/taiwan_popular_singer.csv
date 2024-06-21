@@ -1,0 +1,8 @@
+singer,popularity(millions),guests,debut
+Jay Chou,105,Jolin Tsai|Jam Hsiao|Mayday|A-mei,2000
+Jam Hsiao,101,Mayday|A-mei|Jay Chou|JJ Lin,2007
+JJ Lin,99,Jam Hsiao|Jolin Tsai|Jay Chou|A-mei,2003
+Mayday,150,Jam Hsiao|A-mei|Hebe Tien|JJ Lin,1999
+A-mei,135,Jay Chou|Jam Hsiao|Mayday|JJ Lin,1996
+Jolin Tsai,99,JJ Lin|Jam Hsiao|Jay Chou,1999
+Hebe Tien,140,Jam Hsiao|Jay Chou|Jolin Tsai|Mayday,2001
